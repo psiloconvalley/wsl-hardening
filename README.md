@@ -1,3 +1,4 @@
+<img width="738" height="478" alt="Screenshot 2026-11-18 at 2 37 50 AM" src="https://github.com/user-attachments/assets/4da1064e-c232-4dcc-9ac7-aed9af3cfd0a" />
 # WSL Linux Baseline Hardening Utility
 
 A lightweight security hardening utility for RHEL-based **WSL 2** distributions (**Rocky Linux**, **AlmaLinux**, **Fedora**, **Oracle Linux**).
